@@ -1,0 +1,20 @@
+
+.contact-form {
+      max-width: 50rem;
+      margin: 10px !important;
+}
+.contact-inputs {
+        display: flex;
+        flex-direction: column;
+        gap: 5rem;
+        justify-content: center;
+        margin: auto;
+}
+.container{
+    display: flex;
+    margin: 10px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+}
